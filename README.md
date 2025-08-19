@@ -1,36 +1,25 @@
-### Hi Semua 👋
+Hi Everyone 👋
 
-<!--
-**gilangriyanto/gilangriyanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Gilang Riyanto.
+I’m a Software Engineer
+.
 
-Here are some ideas to get you started:
+💻 About Me
+I’m passionate about technology, especially in Web Development, Mobile Development, Cloud Computing, and UI/UX Design. Over the years, I’ve gained experience in programming languages such as Java, C++, Python, and JavaScript, along with modern frameworks and tools including React, Next.js, .NET, Laravel, and Flutter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Perkenalkan nama saya **Gilang Riyanto**.\
+🚀 Experience & Projects
 
-Saya seorang **Mahasiswa** di [Dicoding](https://www.dicoding.com/) dan Institut Teknologi Telkom Purwokerto.
+Built a Learning Management System (LMS) for universities
 
-Saya berusia 20 tahun, laki-laki, lajang, energik, jujur, sehat
-Saya ingin memiliki karir untuk memperluas pengalaman saya yang saya dapatkan dari saya bujangan,
-saya menganggap diri saya memiliki kualifikasi seperti yang Industri inginkan. Apalagi saya punya
-motivasi yang baik untuk maju dan berkembang, bersemangat untuk belajar, dan dapat bekerja dengan tim
-(kerja tim) atau sendiri.
+Created the Fermata Music Course Admin System using ReactJS & Tailwind CSS
 
-Selama saya kuliah di Institut Teknologi Telkom, saya banyak belajar tentang digital,
-seperti bahasa pemrograman Java, C++, Python. Selain dari
-belajar bahasa pemrograman, saya juga menguasai banyak hal seperti membuat
-Database MySQL, membuat website, mendesain web/aplikasi, membuat aplikasi dan
-membuat jaringan dan sensor.
+Leading multiple digital projects with my team at MagerCoding
 
-Jika kamu tertarik berkenalan denganku ikuti akun Linkedin ku yaa https://www.linkedin.com/in/gilangriyanto/
+🌱 Current Focus
+Creating impactful digital solutions that are simple, efficient, and scalable to help businesses and institutions modernize.
+
+📫 Connect with Me
+https://www.linkedin.com/in/gilangriyanto/
 
 <p align="left">
 <a href="https://github.com/dimasmds">
